@@ -11,7 +11,7 @@ from typing import Dict, Optional
 import pandas as pd
 import numpy as np
 
-from config import (
+from src.config import (
     IMPACT_WEIGHTS,
     TRADE_THRESHOLDS,
     PROCESSING_CONFIG,
